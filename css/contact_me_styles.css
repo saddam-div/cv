@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather','Montserrat',serif;
+  color: #40514E;
+}
+h2{
+  margin:20px auto 0 auto;
+}
+.top_container {
+  background-color: #E4F9F5;
+  padding-top: 20px;
+  position: relative;
+}
+.bottom_container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px 0;
+
+}
+.footer-link{
+  color: #11999E;
+  padding: 7PX;
+}
+.footer-link:hover{
+  color: #eaf6f6;
+}
+.copyright{
+  color:#eaf6f6;
+  font: 0.75rem;
+}
